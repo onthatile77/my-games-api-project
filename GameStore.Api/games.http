@@ -1,0 +1,32 @@
+GET http://localhost:5257/games
+
+###
+GET http://localhost:5257/games/1
+
+###
+POST http://localhost:5257/games
+Content-Type: application/json
+
+{
+    "name": "LongName Longest Name",
+    "category" : "Platformer",
+    "price": 93.99,
+    "releaseDate": "2023-10-20"
+}
+
+###
+GET http://localhost:5257/games/7
+
+###
+PUT http://localhost:5257/games/1
+Content-Type: application/json
+
+{
+    "name": "",
+    "category": "Fighting",
+    "price": 29.99,
+    "releaseDate": "2017-03-03"
+}
+
+###
+DELETE http://localhost:5257/games/1
