@@ -82,5 +82,5 @@ Content-Type: application/json
 
 ## Author
 
-**Moila Leatile Onthatile**, BSc Information Technology, North-West University
+**Moila Leatile Onthatile**
 GitHub: [@onthatile77](https://github.com/onthatile77) | Email: onthatile.0318@gmail.com
