@@ -20,8 +20,8 @@ I built this to move beyond classroom exercises and understand how a real backen
 | Area | Tools |
 | --- | --- |
 | Language | C# |
-| Framework | .NET [version] |
-| Data | [e.g. Entity Framework Core + database] |
+| Framework | .NET 11 |
+| Data | Entity Framework Core + sqlite |
 | Tooling | Git, GitHub, [VS Code / Visual Studio] |
 
 ## Getting started
